@@ -1,0 +1,174 @@
+Pertanyaan Bisnis (Pertanyaan Analisis) untuk Dataset E-commerce Brazil Olist Store
+1. Performa Penjualan:
+
+Tren penjualan:
+Bagaimana tren penjualan di Olist Store selama periode 2016 hingga 2018?
+Apa saja produk atau kategori yang paling laris?
+Bagaimana tren penjualan musiman?
+Bagaimana performa penjualan di berbagai pasar di Brasil?
+
+Performa penjual:
+Penjual mana yang paling sukses di Olist Store?
+Apa faktor-faktor yang berkontribusi pada kesuksesan penjual?
+Bagaimana performa penjual di berbagai kategori produk?
+Bagaimana performa penjual di berbagai pasar di Brasil?
+
+Konversi dan retensi:
+Berapa tingkat konversi dari pengunjung ke pembeli?
+Apa faktor-faktor yang memengaruhi konversi?
+Berapa tingkat retensi pelanggan?
+Apa faktor-faktor yang memengaruhi retensi pelanggan?
+
+2. Perilaku Pelanggan:
+
+Profil pelanggan:
+Siapa target pelanggan Olist Store?
+Dari mana saja pelanggan berasal?
+Apa saja demografi pelanggan utama?
+Apa saja preferensi dan perilaku pembelian pelanggan?
+Perjalanan pelanggan:
+Bagaimana pelanggan menemukan Olist Store?
+Bagaimana pelanggan menavigasi dan berbelanja di Olist Store?
+Apa saja faktor-faktor yang memengaruhi keputusan pembelian pelanggan?
+Bagaimana pengalaman pelanggan setelah pembelian?
+Kepuasan pelanggan:
+Bagaimana tingkat kepuasan pelanggan dengan Olist Store?
+Apa faktor-faktor yang memengaruhi kepuasan pelanggan?
+Bagaimana sentimen pelanggan terhadap Olist Store?
+Bagaimana Olist Store dapat meningkatkan kepuasan pelanggan?
+3. Logistik dan Pemenuhan:
+
+Performa logistik:
+Berapa lama waktu rata-rata yang dibutuhkan untuk memenuhi pesanan?
+Berapa tingkat kerusakan atau kehilangan barang?
+Bagaimana performa mitra logistik Olist Store?
+Apa faktor-faktor yang memengaruhi performa logistik?
+Biaya pemenuhan:
+Berapa biaya pemenuhan rata-rata per pesanan?
+Apa faktor-faktor yang memengaruhi biaya pemenuhan?
+Bagaimana Olist Store dapat mengoptimalkan biaya pemenuhan?
+Kepuasan pelanggan dengan pemenuhan:
+Bagaimana tingkat kepuasan pelanggan dengan proses pemenuhan?
+Apa faktor-faktor yang memengaruhi kepuasan pelanggan dengan pemenuhan?
+Bagaimana Olist Store dapat meningkatkan kepuasan pelanggan dengan pemenuhan?
+4. Analisis Kompetitif:
+
+Bagaimana performa Olist Store dibandingkan dengan pesaingnya?
+Siapa saja pesaing utama Olist Store?
+Apa saja kekuatan dan kelemahan Olist Store dibandingkan dengan pesaingnya?
+Bagaimana Olist Store dapat bersaing dengan lebih efektif?
+Apa saja tren yang muncul di industri e-commerce Brasil?
+Bagaimana tren ini memengaruhi Olist Store?
+Bagaimana Olist Store dapat beradaptasi dengan tren ini?
+Apa saja peluang dan ancaman bagi Olist Store?
+Bagaimana Olist Store dapat memanfaatkan peluang ini?
+Bagaimana Olist Store dapat mengurangi ancaman ini?
+5. Analisis Geospasial:
+
+Bagaimana performa penjualan di berbagai wilayah geografis di Brasil?
+Apa saja wilayah geografis yang paling menguntungkan bagi Olist Store?
+Bagaimana Olist Store dapat menjangkau pelanggan di wilayah geografis baru?
+Bagaimana perilaku pelanggan berbeda di berbagai wilayah geografis di Brasil?
+Apa saja preferensi dan perilaku pembelian pelanggan di berbagai wilayah geografis?
+Bagaimana Olist Store dapat menyesuaikan strategi pemasaran dan penawarannya dengan berbagai wilayah geografis?
+Bagaimana infrastruktur logistik berbeda di berbagai wilayah geografis di Brasil?
+Apa saja tantangan logistik yang dihadapi Olist Store di berbagai wilayah geografis?
+Bagaimana Olist Store dapat mengatasi tantangan logistik ini?
+6. Analisis Ulasan Pelanggan:
+
+Apa sentimen umum pelanggan terhadap Olist Store?
+Apa yang disukai dan tidak disukai pelanggan tentang Olist Store?
+Bagaimana Olist Store dapat meningkatkan pengalaman pelanggan berdasarkan umpan balik mereka?
+Apa saja tema utama yang muncul dalam ulasan pelanggan?
+Apa saja masalah atau keluhan umum yang dialami pelanggan?
+Apa saja saran atau rekomendasi yang diberikan oleh pelanggan?
+
+
+=====================================================================
+Pertanyaan Bisnis (Pertanyaan Analisis) untuk Dataset E-commerce Brazil Olist Store:
+Analisis Penjualan:
+
+Tren penjualan:
+Bagaimana tren penjualan di Olist Store dari tahun 2016 hingga 2018?
+Apa saja produk terlaris di Olist Store selama periode tersebut?
+Bagaimana tren penjualan di berbagai pasar di Brasil?
+Bagaimana tren penjualan berdasarkan kategori produk?
+Bagaimana tren penjualan berdasarkan harga produk?
+
+Performa penjual:
+Siapa saja penjual teratas di Olist Store berdasarkan volume penjualan?
+Bagaimana performa penjual dalam hal tingkat konversi, nilai pesanan rata-rata, dan ulasan pelanggan?
+Apa saja faktor yang berkontribusi pada performa penjual yang tinggi?
+Bagaimana penjual dapat meningkatkan performa mereka?
+
+Perilaku pelanggan:
+Dari mana saja pelanggan Olist Store berasal?
+Apa saja metode pembayaran yang paling populer di Olist Store?
+Bagaimana performa logistik Olist Store dalam hal waktu pengiriman dan tingkat kepuasan pelanggan?
+Apa saja faktor yang memengaruhi tingkat kepuasan pelanggan?
+Bagaimana Olist Store dapat meningkatkan kepuasan pelanggan?
+
+Analisis Harga:
+
+Strategi penetapan harga:
+Bagaimana strategi penetapan harga penjual di Olist Store?
+Apakah ada hubungan antara harga produk dan tingkat konversi?
+Apakah ada hubungan antara harga produk dan ulasan pelanggan?
+Bagaimana penjual dapat mengoptimalkan strategi penetapan harga mereka?
+
+Perbandingan harga:
+Bagaimana harga produk di Olist Store dibandingkan dengan platform e-commerce lain di Brasil?
+Apa saja faktor yang memengaruhi perbedaan harga?
+Bagaimana Olist Store dapat memastikan bahwa pelanggan mendapatkan harga terbaik?
+
+Analisis Geolokasi:
+
+Permintaan geografis:
+Di mana permintaan untuk produk Olist Store paling tinggi?
+Apakah ada pola geografis dalam perilaku pembelian pelanggan?
+Bagaimana Olist Store dapat menjangkau pelanggan di area baru?
+
+Performa logistik:
+Bagaimana performa logistik Olist Store bervariasi di berbagai wilayah di Brasil?
+Apa saja faktor yang memengaruhi waktu pengiriman dan tingkat kepuasan pelanggan di berbagai wilayah?
+Bagaimana Olist Store dapat meningkatkan kinerja logistiknya di area tertentu?
+
+Analisis Ulasan Pelanggan:
+
+Sentimen pelanggan:
+Apa sentimen umum pelanggan terhadap Olist Store dan produknya?
+Apa saja aspek pengalaman pembelian yang paling disukai dan tidak disukai pelanggan?
+Bagaimana Olist Store dapat meningkatkan pengalaman pelanggan berdasarkan umpan balik mereka?
+
+Analisis topik:
+Apa saja topik utama yang dibahas dalam ulasan pelanggan?
+Apa saja tren dalam ulasan pelanggan dari waktu ke waktu?
+Bagaimana Olist Store dapat menggunakan analisis topik untuk mengidentifikasi dan mengatasi masalah pelanggan?
+
+Pertanyaan Tambahan:
+
+Dampak musim:
+Bagaimana penjualan dan perilaku pelanggan di Olist Store dipengaruhi oleh musim?
+Bagaimana Olist Store dapat beradaptasi dengan perubahan permintaan musiman?
+Persaingan:
+Siapa saja pesaing utama Olist Store di pasar e-commerce Brasil?
+Bagaimana Olist Store dapat bersaing dengan pesaingnya?
+Peluang:
+Apa saja peluang baru untuk Olist Store di pasar e-commerce Brasil?
+Bagaimana Olist Store dapat memanfaatkan peluang ini?
+
+Penting:
+
+Pertanyaan-pertanyaan ini hanya contoh dan dapat disesuaikan dengan tujuan analisis Anda.
+Anda dapat menggunakan berbagai teknik analisis data untuk menjawab pertanyaan-pertanyaan ini, seperti analisis deskriptif, analisis regresi, dan analisis machine learning.
+Pastikan Anda memvisualisasikan data Anda untuk mendapatkan pemahaman yang lebih baik tentang tren dan pola.
+Gunakan hasil analisis Anda untuk menginformasikan keputusan bisnis dan meningkatkan kinerja Olist Store.
+Sumber Daya:
+
+Dataset E-commerce Brazil Olist Store [URL yang tidak valid dihapus]
+Dokumentasi Kaggle [URL yang tidak valid dihapus]
+Kursus Analisis Data Online [URL yang tidak valid dihapus]
+Semoga ini membantu!
+
+
+
