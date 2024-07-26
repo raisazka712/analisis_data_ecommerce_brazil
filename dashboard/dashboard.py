@@ -6,12 +6,12 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Load data
-df_filtered = pd.read_csv('df_filtered.csv')
-product_sales_info = pd.read_csv('product_sales_info.csv')
-df_customers_orders = pd.read_csv('df_customers_orders.csv')
-df_filtered2 = pd.read_csv("df_filtered2.csv")
-df_order_reviews = pd.read_csv("df_order_reviews.csv")
-orders_with_payments = pd.read_csv("orders_with_payments.csv")
+df_filtered = pd.read_csv('dashboard/df_filtered.csv')
+product_sales_info = pd.read_csv('dashboard/product_sales_info.csv')
+df_customers_orders = pd.read_csv('dashboard/df_customers_orders.csv')
+df_filtered2 = pd.read_csv("dashboard/df_filtered2.csv")
+df_order_reviews = pd.read_csv("dashboard/df_order_reviews.csv")
+orders_with_payments = pd.read_csv("dashboard/orders_with_payments.csv")
 
 # Konversi kolom 'order_purchase_timestamp' ke datetime jika belum
 datetime_columns = ["order_purchase_timestamp"]
