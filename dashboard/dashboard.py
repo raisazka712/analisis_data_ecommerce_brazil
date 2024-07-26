@@ -29,7 +29,7 @@ max_date = df_filtered['order_purchase_timestamp'].max().date()  # Convert to da
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("../assets/olist_store.png", use_column_width=True)
+    st.image("assets/olist_store.png", use_column_width=True)
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
